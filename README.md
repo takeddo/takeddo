@@ -11,4 +11,8 @@
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=d7aa3c)
 ![Php](https://img.shields.io/badge/-Php-090909?style=for-the-badge&logo=php&logoColor=777bb3)
 
-Follow me
+### Follow me
+
+[![Vk](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=1572b6)](https://vk.com/the.vagulik)
+[![Instagramm](https://img.shields.io/badge/-intagramm-090909?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/takeddo/?hl=ru)
+[![Facebook](https://img.shields.io/badge/-facebook-090909?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/profile.php?id=100042024964881)
